@@ -12,7 +12,7 @@ tweet me [@_jacobtomlinson](http://www.twitter.com/_jacobtomlinson) or email me
 
 ## Contribution
 If you see any errors in my website content or feel you could make improvements then please
-feel free to open an issue or raise a pull request. Or if you wish just leave a comment
+feel free to open an issue or raise a pull request. Or if you don't then just leave a comment
 on the relevant page.
 
 If you notice any bugs relating to the theme or display of the website please raise an issue in the
